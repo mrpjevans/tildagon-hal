@@ -37,4 +37,4 @@ description = "HAL 9000 around you neck? What could go wrong?"
 # increased, we interpret this as a new version being released.
 #
 # Version number must be an string!
-version = "0.0.1"
+version = "0.0.3"
