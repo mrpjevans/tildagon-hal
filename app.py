@@ -9,7 +9,7 @@ from events.input import Buttons, BUTTON_TYPES
 from system.patterndisplay.events import *
 from system.eventbus import eventbus
 
-ASSET_PATH = "apps/mrpjevans_tildagon_hal/"
+ASSET_PATH = "/apps/mrpjevans_tildagon_hal/"
 
 class ExampleApp(app.App):
     def __init__(self):
